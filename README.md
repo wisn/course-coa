@@ -5,6 +5,7 @@ Your summary about COA in Bahasa Indonesia.
 ## Contents
 
 - [IO](summary/IO.md)
+- [BUS](summary/BUS.md)
 
 ## License
 
